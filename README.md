@@ -1,5 +1,5 @@
-# Create Container Instances with disbalacer on MS Azure
-Deploy liberator on MS Azure
+# Create Container Instances with disBalacer on MS Azure
+Deploy disBalacer Liberator on MS Azure
 
 ## Prepare on Windows
 - Create Azure Account https://dou.ua/forums/topic/36795/. Порядок действий (пункты 1 - 9).
