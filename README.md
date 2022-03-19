@@ -2,7 +2,7 @@
 Deploy liberator on MS Azure
 
 ## Prepare on Windows
-- Create Azure Account https://dou.ua/forums/topic/36795/ Порядок действий (пункти 1 - 9)
+- Create Azure Account https://dou.ua/forums/topic/36795/. Порядок действий (пункты 1 - 9).
 - Install azure-cli https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
 
 
