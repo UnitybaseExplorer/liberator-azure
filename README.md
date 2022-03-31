@@ -25,7 +25,7 @@ Deploy disBalacer Liberator on MS Azure
 ## Monitor Containers
 
 - container logs:
- `($num = 0; $num -le 9; $num++) {Write-Host "Container liberator-$num"; az container logs --resource-group disliberator --name liberator-$num}`
+ `for ($num = 0; $num -le 9; $num++) {Write-Host "Container liberator-$num"; az container logs --resource-group disliberator --name liberator-$num}`
 
 - container restart:
 `for ($num = 0; $num -le 9; $num++) {az container restart --resource-group disliberator --name liberator-$num}`
